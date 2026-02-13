@@ -1,2 +1,2 @@
-# print-hello-world
+# my-first-code
 print hello world
