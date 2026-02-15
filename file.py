@@ -13,4 +13,7 @@ a=open("data","r")
 print(a.tell())
 print(a.read(6))
 print(a.tell())
+a.seek(0,0)
+print(a.tell())
 a.close()
+import os
